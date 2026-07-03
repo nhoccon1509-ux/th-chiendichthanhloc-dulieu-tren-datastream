@@ -1,0 +1,3 @@
+
+Emails: (2) ['alice@mail.com', 'charlie@mail.com']
+Total Revenue: 1300
